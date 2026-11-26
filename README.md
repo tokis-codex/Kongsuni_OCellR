@@ -1,15 +1,10 @@
 # 꽁순이 OCellR 사용 설명서
 
-통장이나 카드내역등의 표가 가득한 PDF 파일을 OCR을 이용해 XLS 파일로 추출해줍니다.
-무료로 사용이 가능한 OCR들은 웹브라우저 기반이 많아 결국 과금없이는 사용량의 제약이 큽니다.
-무료 OCR 엔진을 사용하여 PC에서 직접 사용량 제약 없이 변환이 가능합니다.
-
-파일로 저장된 PDF 파일은 그럭저럭 작동하며, 스캔한 PDF의 경우 추출이 거의 불가능한 제약이 있습니다.
-꽁짜 OCR이라 프로그램 이름은 꽁순이로 지었습니다.
+  통장이나 카드 내역 등 표가 가득한 PDF 파일을 OCR을 이용해 엑셀(XLS) 파일로 추출해              줍니다.</BR>                                                                                       무료로 사용할 수 있는 OCR 서비스들은 웹 브라우저 기반이 많아 결국 과금 없이는 사용량 제약이    큽니다.</BR>                                                                                       이 프로그램은 무료 OCR 엔진을 사용해 PC에서 직접, 사용량 제약 없이 변환할 수                   있습니다.</BR></BR>                                                                                                                                                                                 파일로 저장된 일반 PDF는 그럭저럭 잘 작동하지만, 스캔한 PDF의 경우 추출이 거의 어렵다는        제약이 있습니다.</BR>                                                                              '공짜 OCR'이라는 뜻에서 프로그램 이름은 **꽁순이**로 지었습니다. </BR></BR></BR>
 
 
 
-<img src="https://github.com/tokis-codex/Kongsuni_OCellR/blob/main/USER_GUIDE.png">
+<img src="https://github.com/tokis-codex/Kongsuni_OCellR/blob/main/USER_GUIDE.png"></BR></BR>
 
 
 
